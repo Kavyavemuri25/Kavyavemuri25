@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - **Programming Languages:** Python, Java, C  
 - **Web & API Development:** FastAPI, Flask, React, JavaScript, SQL, MongoDB  
-- **Cloud & DevOps:** AWS (EKS, RDS, Lambda, Glue, SNS, Cognito), Docker, Kubernetes, Terraform, CI/CD  
+- **Cloud & DevOps:** AWS (EKS, RDS, Lambda, Glue, SNS, Cognito), Docker, Kubernetes, CI/CD  
 - **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn, NLP, Generative AI (LLMs, RAG), YOLO (Computer Vision)  
 - **Data Processing & Analytics:** ETL Pipelines, PySpark, Hadoop, Kafka, Power BI, Tableau  
 
