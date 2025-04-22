@@ -18,17 +18,19 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Kavya Vemuri!  
 🚀 **Software Engineer | Cloud & DevOps | Machine Learning | Full-Stack Development**  
 
-📍 Mount Pleasant, MI | 📧 kavyavemuri0525@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/kavya-vemuri25/) | 🖥️ [GitHub](https://github.com/Kavyavemuri25)  
+📧 kavyavemuri0525@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/kavya-vemuri25/) | 🖥️ [GitHub](https://github.com/Kavyavemuri25)  
 
 ---
 
 ## 🛠️ Technical Skills  
 
-- **Programming Languages:** Python, Java, C  
-- **Web & API Development:** FastAPI, Flask, React, JavaScript, SQL, MongoDB  
-- **Cloud & DevOps:** AWS (EKS, RDS, Lambda, Glue, SNS, Cognito), Docker, Kubernetes, CI/CD  
-- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn, NLP, Generative AI (LLMs, RAG), YOLO (Computer Vision)  
-- **Data Processing & Analytics:** ETL Pipelines, PySpark, Hadoop, Kafka, Power BI, Tableau  
+- **Programming Languages:** Python, Java, C, C++  
+- **Web & API Development:** FastAPI, Flask, React, Streamlit, JavaScript, HTML, CSS, Bootstrap, SQL, MongoDB, PHP  
+- **Cloud & DevOps:** AWS (EKS, ECR, EC2, RDS, DynamoDB, CloudWatch, SNS, Cognito, Lambda, API Gateway), Azure (Data Factory, Databricks, Blob Storage), Docker, Kubernetes, CI/CD  
+- **Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, NLP, Generative AI (LLMs, RAG, GAN), Hugging Face, LangChain, YOLO (v3/v5/v8/v11)  
+- **Data Processing & Analytics:** ETL Pipelines, PySpark, Hadoop, Kafka, NumPy, Pandas, Matplotlib, Power BI, Tableau  
+- **Testing & Tools:** PyTest, JUnit, Git, Jira, Confluence, Postman, Linux  
+
 
 ---
 
@@ -58,13 +60,6 @@ Here are some ideas to get you started:
 
 ## 📜 Certifications  
 - **AWS Cloud Practitioner – Completed Foundational Course (AWS Skill Builder, 2024)**  
-
----
-
-## 📊 GitHub Stats  
-
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavyavemuri25&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyavemuri25&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
